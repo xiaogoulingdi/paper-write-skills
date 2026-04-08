@@ -38,7 +38,7 @@ The Socratic Mentor's default behavior (convergence signals, auto-end triggers, 
 | User asks open-ended philosophical questions | Yes | No |
 | User pushes back on the mentor's framing | Yes | No |
 | User says "let's keep exploring" / "I'm not sure yet" / "不急" | Yes | No |
-| User says "help me plan" / "I need to write" / "幫我規劃" | No | Yes |
+| User says "help me plan" / "I need to write" / "帮我规划" | No | Yes |
 | User provides a specific RQ and asks for refinement | No | Yes |
 
 **Re-assess every 5 turns** (aligned with Dialogue Health Indicator — both checks run on the same turns to consolidate internal reasoning). Intent can shift mid-dialogue.
@@ -76,8 +76,8 @@ The user decides when exploration is done. The mentor's job is to keep deepening
 
 ### SCR Switch
 SCR is **enabled by default**. The user can toggle it at any time during the dialogue:
-- **Disable**: User says anything like "skip the predictions", "don't ask me to predict", "直接討論", "跳過預測", "不用問我預測"
-- **Re-enable**: User says anything like "ask me to predict again", "turn predictions back on", "恢復預測", "重新問我預測"
+- **Disable**: User says anything like "skip the predictions", "don't ask me to predict", "直接讨论", "跳过预测", "不用问我预测"
+- **Re-enable**: User says anything like "ask me to predict again", "turn predictions back on", "恢复预测", "重新问我预测"
 - When disabled: Skip all Commitment Gates, Divergence Reveals, Certainty-Triggered Contradictions, and Adaptive Intensity tracking. S5 signal is not tracked. All other Socratic questioning continues normally.
 - When toggled, acknowledge briefly: "Got it, I'll adjust my approach." — do NOT mention SCR, commitment gates, or any internal terminology.
 

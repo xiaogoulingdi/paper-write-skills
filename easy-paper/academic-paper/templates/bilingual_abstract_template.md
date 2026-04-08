@@ -1,7 +1,7 @@
 # Bilingual Abstract Template
 
 ## Usage
-Use this template when writing bilingual abstracts (English + Traditional Chinese). Each version must be independently composed — not a translation of the other.
+Use this template when writing bilingual abstracts (English + Simplified Chinese). Each version must be independently composed — not a translation of the other.
 
 ---
 

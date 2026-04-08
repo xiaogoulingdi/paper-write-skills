@@ -96,7 +96,7 @@ Detailed per-phase agent behavior and output descriptions for the 8-phase orches
 **Output**: Bilingual Abstract + Keywords
 
 - English abstract (150-300 words, structured)
-- Traditional Chinese abstract (300-500 characters, structured)
+- Simplified Chinese abstract (300-500 characters, structured)
 - EN keywords (5-7)
 - zh-TW keywords (5-7)
 - Independent writing (not mechanical translation)

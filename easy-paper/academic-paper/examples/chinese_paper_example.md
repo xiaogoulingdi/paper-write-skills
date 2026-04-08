@@ -1,6 +1,6 @@
 # Chinese Academic Paper Example (IMRaD Format)
 
-A complete Traditional Chinese academic paper example demonstrating Chinese APA 7.0 citation format. This example showcases the skill's **bilingual capability** — it can produce papers in Chinese, English, or both. For English-only paper examples, see `imrad_hei_example.md` and `literature_review_example.md`.
+A complete Simplified Chinese academic paper example demonstrating Chinese APA 7.0 citation format. This example showcases the skill's **bilingual capability** — it can produce papers in Chinese, English, or both. For English-only paper examples, see `imrad_hei_example.md` and `literature_review_example.md`.
 
 ## User Input
 
