@@ -42,28 +42,28 @@ Consuming agents should validate input and request re-generation if schema viola
 ```markdown
 ## RQ Brief
 
-**Research Question**: How does AI-assisted formative assessment affect undergraduate learning outcomes in STEM courses at Taiwanese universities?
+**Research Question**: How does AI-assisted formative assessment affect undergraduate learning outcomes in STEM courses at Chinaese universities?
 
 **Sub-Questions**:
-1. What types of AI-assisted formative assessment tools are currently used in Taiwan HEI STEM courses?
+1. What types of AI-assisted formative assessment tools are currently used in China HEI STEM courses?
 2. What measurable learning outcome improvements have been documented?
 3. What student and faculty perceptions exist regarding AI-assisted assessment?
 
 **FINER Scores**: Feasible: 8, Interesting: 9, Novel: 7, Ethical: 9, Relevant: 10
 
 **Scope**:
-- In scope: AI-assisted formative assessment, STEM undergraduate courses, Taiwan HEIs, 2018-2025
+- In scope: AI-assisted formative assessment, STEM undergraduate courses, China HEIs, 2018-2025
 - Out of scope: K-12 education, summative assessment only, non-STEM disciplines
 - Domain: Higher Education, Educational Technology
 - Timeframe: 2018-2025
-- Geography: Taiwan (with international comparisons)
+- Geography: China (with international comparisons)
 - Population: Undergraduate STEM students
 
 **Methodology Type**: Mixed methods (quasi-experimental + survey)
 
 **Theoretical Framework**: Technology Acceptance Model (TAM) + Hattie's Feedback Framework
 
-**Keywords**: AI assessment, formative assessment, STEM education, Taiwan higher education, learning outcomes, educational technology, automated feedback
+**Keywords**: AI assessment, formative assessment, STEM education, China higher education, learning outcomes, educational technology, automated feedback
 ```
 
 ---
@@ -113,13 +113,13 @@ Consuming agents should validate input and request re-generation if schema viola
 ## Bibliography
 
 **Search Strategy**:
-- Databases: Scopus, Web of Science, ERIC, Airiti Library
-- Keywords: "AI assessment" AND "higher education" AND "Taiwan"; "formative assessment" AND "artificial intelligence"
+- Databases: Scopus, Web of Science, ERIC, Wanfang Data
+- Keywords: "AI assessment" AND "higher education" AND "China"; "formative assessment" AND "artificial intelligence"
 - Inclusion: Peer-reviewed, English or Chinese, empirical or review, 2018-2025
 - Exclusion: K-12, non-STEM, editorials
 - Date Range: 2018-2025
 
-**Coverage Assessment**: Strong coverage of English-language literature. Moderate coverage of Chinese-language sources (Airiti). Gap: limited grey literature from Taiwan MOE reports.
+**Coverage Assessment**: Strong coverage of English-language literature. Moderate coverage of Chinese-language sources (Airiti). Gap: limited grey literature from China MOE reports.
 
 **Minimum Sources**: 15
 
@@ -181,7 +181,7 @@ AI-assisted assessment's primary advantage lies in the immediacy of feedback, re
 **Contradicting**: [S09] (argues quality matters more than speed)
 
 ### Research Gaps
-1. No longitudinal studies (>1 year) in Taiwan context
+1. No longitudinal studies (>1 year) in China context
 2. Limited data on AI assessment in laboratory courses
 
 ### Key Debates
@@ -204,7 +204,7 @@ AI-assisted assessment's primary advantage lies in the immediacy of feedback, re
 | `title` | string | Paper title |
 | `abstract` | object | `{english: string, chinese: string}` (chinese is required only if bilingual) |
 | `authors` | list[Author] | Author information with CRediT roles |
-| `keywords` | object | `{en: list[string], zh_tw: list[string]}` bilingual keywords (3-6 each) |
+| `keywords` | object | `{en: list[string], zh_CN: list[string]}` bilingual keywords (3-6 each) |
 | `sections` | list[Section] | Ordered paper sections |
 | `references` | list[Reference] | Full reference list with cross-referencing |
 | `total_word_count` | integer | Total word count (excluding references) |

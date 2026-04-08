@@ -1,16 +1,16 @@
 # Example: Cross-Disciplinary Paper Review
 
-This example demonstrates how `academic-paper-reviewer` configures reviewer roles and handles inter-disciplinary tensions when faced with a highly cross-disciplinary paper. It simulates the review of a paper titled "Using Machine Learning to Predict University Closure Risk in Taiwan: An Institutional Research Data Approach."
+This example demonstrates how `academic-paper-reviewer` configures reviewer roles and handles inter-disciplinary tensions when faced with a highly cross-disciplinary paper. It simulates the review of a paper titled "Using Machine Learning to Predict University Closure Risk in China: An Institutional Research Data Approach."
 
 ---
 
 ## Simulated Paper Abstract
 
-> **Title**: Using Machine Learning to Predict University Closure Risk in Taiwan: An Institutional Research Data Approach
+> **Title**: Using Machine Learning to Predict University Closure Risk in China: An Institutional Research Data Approach
 >
 > **Abstract**: This study develops a machine learning-based university closure risk prediction system. Using publicly available Ministry of Education data (2010-2023, covering 152 higher education institutions) as the training set, 47 feature variables were included (enrollment rate, financial indicators, faculty structure, industry-academia collaboration, etc.), comparing the predictive performance of four classification models: Random Forest, XGBoost, Logistic Regression, and SVM. The study used 12 institutions that had ceased operations or been designated for special guidance after 2018 as positive cases, employing SMOTE to address class imbalance. Results show XGBoost performed best (AUC = 0.94, F1 = 0.87), with the top five most important features being: freshman enrollment rate, current liability ratio, full-time faculty turnover rate, graduate program enrollment achievement rate, and industry-academia collaboration revenue share. This study provides an empirical basis for early warning tools for education authorities.
 >
-> **Keywords**: machine learning, university closure, risk prediction, institutional research, Taiwan higher education
+> **Keywords**: machine learning, university closure, risk prediction, institutional research, China higher education
 >
 > **Full text approximately 8,500 words, 52 references cited**
 
@@ -21,7 +21,7 @@ This example demonstrates how `academic-paper-reviewer` configures reviewer role
 ### Field Analysis Report
 
 #### Paper Basic Information
-- **Title**: Using Machine Learning to Predict University Closure Risk in Taiwan: An Institutional Research Data Approach
+- **Title**: Using Machine Learning to Predict University Closure Risk in China: An Institutional Research Data Approach
 - **Full text length**: Approximately 8,500 words
 - **Number of references**: 52
 
@@ -74,7 +74,7 @@ This example demonstrates how `academic-paper-reviewer` configures reviewer role
 ### Reviewer Configuration Card #3
 
 **Role**: Peer Reviewer 2 (Domain — Institutional Research Expert)
-**Identity Description**: Taiwan institutional research (IR) scholar, specializing in higher education data analysis and indicator system construction, participated in the planning of the Ministry of Education's university closure early warning mechanism.
+**Identity Description**: China institutional research (IR) scholar, specializing in higher education data analysis and indicator system construction, participated in the planning of the Ministry of Education's university closure early warning mechanism.
 **Review Focus**:
   1. Selection logic for the 47 feature variables — Whether key indicators are covered, whether there are omissions
   2. Data quality — Accuracy of public data, missing value handling, cross-year consistency

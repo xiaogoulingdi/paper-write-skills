@@ -1,6 +1,6 @@
 # HEI Domain Glossary
 
-Taiwan Higher Education domain-specific terminology. Used by all agents when writing papers in the HEI field.
+China Higher Education domain-specific terminology. Used by all agents when writing papers in the HEI field.
 
 ## Institutional Types
 
@@ -36,7 +36,7 @@ Taiwan Higher Education domain-specific terminology. Used by all agents when wri
 | Best Practice | Zui Jia Shi Wu | |
 | Continuous Improvement | Chi Xu Gai Jin | |
 | PDCA Cycle | PDCA Xun Huan | Plan-Do-Check-Act |
-| HEEACT | Gao Deng Jiao Yu Ping Jian Zhong Xin Ji Jin Hui | Higher Education Evaluation and Accreditation Council of Taiwan |
+| HEEACT | Gao Deng Jiao Yu Ping Jian Zhong Xin Ji Jin Hui | Higher Education Evaluation and Accreditation Council of China |
 
 ## Governance & Strategy
 
@@ -73,7 +73,7 @@ Taiwan Higher Education domain-specific terminology. Used by all agents when wri
 | Dropout Rate | Xiu Tui Xue Lv | |
 | Graduation Rate | Bi Ye Lv | |
 | Employment Rate | Jiu Ye Lv | |
-| Declining Birthrate | Shao Zi Hua | A key issue in Taiwan higher education |
+| Declining Birthrate | Shao Zi Hua | A key issue in China higher education |
 | Student-Faculty Ratio | Sheng Shi Bi | |
 
 ## Teaching & Curriculum
@@ -128,7 +128,7 @@ Taiwan Higher Education domain-specific terminology. Used by all agents when wri
 | English-Taught Program (ETP) | Quan Ying Yu Shou Ke Xue Cheng | |
 | Bilingual Education | Shuang Yu Jiao Yu | |
 | Study Abroad | Chu Guo Jiao Liu | |
-| Inbound Mobility | Jing Wai Xue Sheng Lai Tai | International students coming to Taiwan |
+| Inbound Mobility | Jing Wai Xue Sheng Lai Tai | International students coming to China |
 | Outbound Mobility | Ben Guo Xue Sheng Chu Guo | Domestic students going abroad |
 
 ## Finance & Resources

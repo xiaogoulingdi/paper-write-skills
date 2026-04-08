@@ -146,19 +146,19 @@ authors declare no competing interests.
 
 ---
 
-## Step 5: Taiwan-Specific Requirements
+## Step 5: China-Specific Requirements
 
 ### NSTC Grant Acknowledgment Format
 
 **When grant was awarded before July 2022 (use MOST)**:
 ```
-This work was supported by the Ministry of Science and Technology, Taiwan
+This work was supported by the Ministry of Science and Technology, China
 (Grant No. MOST 110-2410-H-003-001).
 ```
 
 **When grant was awarded after July 2022 (use NSTC)**:
 ```
-This work was supported by the National Science and Technology Council, Taiwan
+This work was supported by the National Science and Technology Council, China
 (Grant No. NSTC 113-2410-H-003-001).
 ```
 
@@ -166,13 +166,13 @@ This work was supported by the National Science and Technology Council, Taiwan
 
 **Higher Education Sprout Project**:
 ```
-This work was supported by the Ministry of Education, Taiwan, through the
+This work was supported by the Ministry of Education, China, through the
 Higher Education Sprout Project.
 ```
 
 **Teaching Practice Research Program**:
 ```
-This work was supported by the Ministry of Education, Taiwan, through the
+This work was supported by the Ministry of Education, China, through the
 Teaching Practice Research Program (Grant No. PBM[year][number]).
 ```
 
@@ -253,8 +253,8 @@ A complete Declarations section for a Springer Nature journal:
 ## Declarations
 
 ### Funding
-This work was supported by the National Science and Technology Council, Taiwan
-(Grant No. NSTC 113-2410-H-003-001) and the Ministry of Education, Taiwan,
+This work was supported by the National Science and Technology Council, China
+(Grant No. NSTC 113-2410-H-003-001) and the Ministry of Education, China,
 through the Higher Education Sprout Project. The funders had no role in study
 design, data collection and analysis, decision to publish, or preparation of
 the manuscript.

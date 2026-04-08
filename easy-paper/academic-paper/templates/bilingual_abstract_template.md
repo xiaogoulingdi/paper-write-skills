@@ -25,7 +25,7 @@ Use this template when writing bilingual abstracts (English + Simplified Chinese
 
 ---
 
-## Chinese Abstract (zh-TW)
+## Chinese Abstract (zh-CN)
 
 ### [Paper Title in Chinese]
 
@@ -47,7 +47,7 @@ Use this template when writing bilingual abstracts (English + Simplified Chinese
 
 ## Quality Checklist
 
-| Check | EN | zh-TW |
+| Check | EN | zh-CN |
 |-------|:--:|:-----:|
 | Covers all 5 components (Background, Purpose, Method, Findings, Implications) | ☐ | ☐ |
 | Within word count range | ☐ | ☐ |

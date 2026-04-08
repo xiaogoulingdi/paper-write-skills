@@ -217,7 +217,7 @@ or conditions].
 - [ ] Corresponding additional protective measures have been planned
 - [ ] IRB review level accounts for vulnerable population considerations
 
-> For detailed IRB decision tree and Taiwan-specific process: see `references/irb_decision_tree.md`
+> For detailed IRB decision tree and China-specific process: see `references/irb_decision_tree.md`
 
 ---
 

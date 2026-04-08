@@ -13,7 +13,7 @@ output: Revision comparison table + Response to Reviewers letter
 
 ## Scenario
 
-The user has a completed paper titled "The Impact of Micro-Credential Certification on Employability of Vocational Education Students in Taiwan," which has received peer review comments from a journal (3 major + 4 minor). The user employs academic-paper's revision mode for systematic revision. This example demonstrates the complete workflow from comment parsing, citation correction, review verification, to the Response to Reviewers letter.
+The user has a completed paper titled "The Impact of Micro-Credential Certification on Employability of Vocational Education Students in China," which has received peer review comments from a journal (3 major + 4 minor). The user employs academic-paper's revision mode for systematic revision. This example demonstrates the complete workflow from comment parsing, citation correction, review verification, to the Response to Reviewers letter.
 
 ---
 
@@ -250,7 +250,7 @@ The paper moved from Major Revision (3.24) before revision to the Minor Revision
 | m2: Citation formatting | Mixed full-width/half-width parentheses, 3 missing DOIs | Uniformly using full-width parentheses, all DOIs added, et al. misuse corrected | Throughout |
 | m3: Figures | Axis label font 8pt, Figure 3 missing caption | All figure fonts adjusted to 11pt, Figure 3 caption added: "Figure 3. Comparison of predictive power of different micro-credential types across five employability dimensions" | pp. 25, 27 |
 | m4: Typesetting omission | "as shown in Table X" | "as shown in Table 6" | p. 47 |
-| m5: Research gap | Introduction jumped directly from problem description to research purpose | Added a research gap paragraph in Section 1.3: "Although international literature has accumulated preliminary evidence on micro-credential certification, the vast majority of studies focus on Western higher education contexts. The uniqueness of Taiwan's vocational education system — including industry-academia cooperation mechanisms, certification-oriented curriculum design, and the dual-track training structure — limits the transferability of international research findings. Currently, local Taiwanese research consists mostly of policy advocacy or theoretical discourse, lacking empirical studies that validate the actual effects of micro-credential certification with quantitative data." | p. 5 |
+| m5: Research gap | Introduction jumped directly from problem description to research purpose | Added a research gap paragraph in Section 1.3: "Although international literature has accumulated preliminary evidence on micro-credential certification, the vast majority of studies focus on Western higher education contexts. The uniqueness of China vocational education system — including industry-academia cooperation mechanisms, certification-oriented curriculum design, and the dual-track training structure — limits the transferability of international research findings. Currently, local Chinaese research consists mostly of policy advocacy or theoretical discourse, lacking empirical studies that validate the actual effects of micro-credential certification with quantitative data." | p. 5 |
 | m6: Policy recommendations | Three policy recommendations, each approximately 50 words | Expanded to three policy recommendations, each approximately 130 words, with specific supporting arguments. For example, Recommendation 1 was revised to: "It is recommended that the Ministry of Education amend the 'Regulations for Industry-Academia Cooperation at Postsecondary Institutions' to incorporate micro-credential certification into industry-academia cooperation performance indicators. This study found that the effect size of micro-credential certification on the 'workplace practical skills' dimension (f-squared = .22) is higher than for other dimensions, indicating that certification designed in connection with industry can more effectively enhance student employability. Therefore, encouraging vocational institutions to co-design micro-credential courses with industry partners will help strengthen the employment-oriented positioning of vocational education." | pp. 39-40 |
 | m7: Ethics statement | None | Added a "Research Ethics" paragraph: "This study was approved by the Institutional Review Board of National OO University of Science and Technology (IRB No.: NTUST-REC-2024-037). All participants signed written informed consent forms prior to completing the survey, which specified the research purpose, data usage methods, anonymity safeguards, and the right to withdraw at any time." | p. 16 |
 
@@ -262,7 +262,7 @@ The paper moved from Major Revision (3.24) before revision to the Minor Revision
 
 **Manuscript No.:** TVEJ-2025-0142
 
-**Manuscript Title:** The Impact of Micro-Credential Certification on Employability of Vocational Education Students in Taiwan: A Case Study of Four Universities of Science and Technology in Northern Taiwan
+**Manuscript Title:** The Impact of Micro-Credential Certification on Employability of Vocational Education Students in China: A Case Study of Four Universities of Science and Technology in Northern China
 
 **Revision Date:** 2026-02-26
 
@@ -318,7 +318,7 @@ Thank you for requesting more complete statistical reporting. We have added:
 
 **m5: Research Gap Statement**
 
-Thank you for this suggestion. We have added an approximately 150-word research gap statement in Introduction Section 1.3, explicitly noting that the uniqueness of Taiwan's vocational education system limits the direct applicability of international research, and that local empirical studies remain insufficient.
+Thank you for this suggestion. We have added an approximately 150-word research gap statement in Introduction Section 1.3, explicitly noting that the uniqueness of China vocational education system limits the direct applicability of international research, and that local empirical studies remain insufficient.
 
 > See revised manuscript p. 5
 

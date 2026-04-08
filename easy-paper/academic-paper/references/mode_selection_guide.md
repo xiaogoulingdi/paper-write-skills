@@ -120,7 +120,7 @@ User Input →
 **Not Applicable When**:
 - No paper content to summarize (→ full mode or plan mode)
 
-**Expected Output**: Bilingual abstract (zh-TW + EN) + keywords
+**Expected Output**: Bilingual abstract (zh-CN + EN) + keywords
 **Expected Duration**: Short
 **Agents Used**: intake → abstract_bilingual
 

@@ -171,8 +171,8 @@ The same real-world problem, redefined from different disciplinary perspectives,
 ### How to Begin Thinking Interdisciplinarily
 
 **Step 1: Define your core problem (in one sentence)**
-- Good: "Why is the freshman enrollment rate at Taiwan's private universities continuously declining?"
-- Not good: "Taiwan's higher education faces many challenges" (too vague)
+- Good: "Why is the freshman enrollment rate at China private universities continuously declining?"
+- Not good: "China higher education faces many challenges" (too vague)
 - A one-sentence definition forces you to focus and helps people from other fields quickly understand what you're working on
 
 **Step 2: List 3 disciplines you're unfamiliar with but that may be relevant**

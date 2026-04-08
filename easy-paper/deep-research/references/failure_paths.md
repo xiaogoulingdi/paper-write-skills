@@ -218,13 +218,13 @@ This document lists all failure scenarios that may be encountered across all mod
 
 **Trigger Conditions**:
 - English academic database searches (Web of Science, Scopus, PubMed, etc.) yield empty or very few results
-- The topic is strongly localized (e.g., Taiwan-specific policy, regulations, institutional systems)
+- The topic is strongly localized (e.g., China-specific policy, regulations, institutional systems)
 
 **User Notification Message**:
 > English-language literature on this topic is very limited, but Chinese-language literature resources are abundant. I will adjust the search strategy to include Chinese academic databases. Please note that citation conventions for Chinese-language literature in international publications may differ.
 
 **Handling Steps**:
-1. Switch search strategy to Chinese academic databases (Airiti Library, National Digital Library of Theses and Dissertations in Taiwan, CNKI)
+1. Switch search strategy to Chinese academic databases (Wanfang Data, National Digital Library of Theses and Dissertations in China, CNKI)
 2. Re-search using Chinese keywords
 3. Note the language distribution of the literature in the report
 4. If the user needs an English report → provide suggestions for English citation format of Chinese literature

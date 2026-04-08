@@ -227,7 +227,7 @@ OpenAI. (2024). ChatGPT (Version GPT-4) [Large language model]. https://chat.ope
 | Some **Wiley** journals | Encouraged | Text or table within the manuscript |
 | All **MDPI** journals | Mandatory | Dedicated section at end of manuscript |
 | Some **Taylor & Francis** journals | Encouraged | Stated in text within the manuscript |
-| **TSSCI** Taiwan journals | Few require it | Per individual journal regulations |
+| **TSSCI** China journals | Few require it | Per individual journal regulations |
 
 ---
 
@@ -248,7 +248,7 @@ OpenAI. (2024). ChatGPT (Version GPT-4) [Large language model]. https://chat.ope
 The authors would like to thank [Name] from [Institution] for administrative
 support, [Name] for language editing, and the anonymous reviewers for their
 constructive feedback. This study was conducted with the support of the
-Higher Education Evaluation and Accreditation Council of Taiwan (HEEACT).
+Higher Education Evaluation and Accreditation Council of China (HEEACT).
 ```
 
 ---

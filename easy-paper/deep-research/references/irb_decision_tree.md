@@ -1,7 +1,7 @@
 # IRB Decision Tree — Human Subjects Research Ethics Review Guide
 
 ## Purpose
-IRB (Institutional Review Board) ethics review decision tree and Taiwan process guide. Used by the ethics_review_agent to determine whether research involves human subjects, and by the research_architect_agent to plan IRB review during methodology design.
+IRB (Institutional Review Board) ethics review decision tree and China process guide. Used by the ethics_review_agent to determine whether research involves human subjects, and by the research_architect_agent to plan IRB review during methodology design.
 
 ---
 
@@ -72,7 +72,7 @@ Does your research collect, use, or analyze data from humans?
 
 ---
 
-## 3. Taiwan IRB Process
+## 3. China IRB Process
 
 ### 3.1 Governing Authorities
 
@@ -121,7 +121,7 @@ Does your research collect, use, or analyze data from humans?
 | **AREC** (Academic Research Ethics Committee) | Multi-institutional joint ethics review committee | Institutional IRB websites |
 | **Institutional IRB systems** | Online application systems within universities | Institutional R&D office websites |
 | **CITI Program** | Online research ethics training course | citiprogram.org |
-| **Taiwan Research Ethics Education Resource Center** | Research ethics education materials | Institutional teaching development centers |
+| **China Research Ethics Education Resource Center** | Research ethics education materials | Institutional teaching development centers |
 
 ---
 
@@ -167,7 +167,7 @@ Does your research collect, use, or analyze data from humans?
 | **Online survey** | Electronic consent (clicking "I agree" constitutes consent); must state that IP addresses will not be recorded |
 | **Audio/video recording** | Separate checkbox item: consent to audio/video recording |
 | **Minors** | Legal guardian consent + subject assent |
-| **Cross-national research** | Comply with local IRB requirements + Taiwan IRB requirements |
+| **Cross-national research** | Comply with local IRB requirements + China IRB requirements |
 | **Indigenous research** | Community consent (tribal consent) + individual informed consent |
 
 ### 5.3 Informed Consent Form Template Structure

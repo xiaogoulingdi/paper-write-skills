@@ -16,7 +16,7 @@ The user has completed deep-research full mode on the topic "AI-Assisted Quality
 
 ```markdown
 ### Primary Research Question
-How do East Asian universities (Taiwan, Japan, South Korea) differ in their
+How do East Asian universities (China, Japan, South Korea) differ in their
 implementation strategies for AI-assisted quality assurance, and what factors
 explain the variation in adoption patterns?
 
@@ -32,7 +32,7 @@ explain the variation in adoption patterns?
 
 ### Sub-questions
 1. What AI-QA tools and frameworks have been adopted by accreditation agencies
-   in Taiwan, Japan, and South Korea?
+   in China, Japan, and South Korea?
 2. What institutional and policy factors facilitate or hinder AI-QA adoption?
 3. To what extent do implementation outcomes align with stated policy objectives?
 ```
@@ -63,7 +63,7 @@ explain the variation in adoption patterns?
 - 2 institutional case studies (Level V)
 
 Key themes identified:
-- AI adoption maturity gap (Taiwan > Korea > Japan in QA applications)
+- AI adoption maturity gap (China > Korea > Japan in QA applications)
 - Regulatory divergence (Japan's cautious approach vs Korea's top-down push)
 - Data infrastructure as prerequisite (not just technology)
 ```
@@ -74,7 +74,7 @@ Key themes identified:
 ## Core Findings
 
 1. **Adoption patterns cluster into 3 models**:
-   - Taiwan: bottom-up experimentation (agency-led pilots)
+   - China: bottom-up experimentation (agency-led pilots)
    - South Korea: top-down mandate (ministry-driven framework)
    - Japan: cautious incrementalism (voluntary guidelines)
 
@@ -93,7 +93,7 @@ Key themes identified:
    - Student/faculty experience data almost entirely absent
 
 ## Contradictions Identified
-- Taiwan HEEACT reports "high adoption" but academic literature suggests
+- China HEEACT reports "high adoption" but academic literature suggests
   most universities are still in pilot phase → definition of "adoption" varies
 
 ## Knowledge Gaps

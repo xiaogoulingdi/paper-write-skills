@@ -21,7 +21,7 @@ Used by `formatter_agent` for LaTeX output generation.
 \usepackage{url}                      % URL formatting
 \usepackage{float}                    % Figure placement
 
-% === CJK Support (for zh-TW content) ===
+% === CJK Support (for zh-CN content) ===
 % Uncomment for Chinese content:
 % \usepackage{xeCJK}
 % \setCJKmainfont{Noto Sans CJK TC}
@@ -270,7 +270,7 @@ Where N = `(number_of_columns - 1) × 2`
 @phdthesis{Wang2024,
   author = {Wang, Mei-Ling},
   title  = {Dissertation title in sentence case},
-  school = {National Taiwan University},
+  school = {National China University},
   year   = {2024},
   type   = {Doctoral dissertation}
 }
@@ -308,7 +308,7 @@ Where N = `(number_of_columns - 1) × 2`
 
 ## XeLaTeX for Chinese Content
 
-When the paper includes zh-TW content:
+When the paper includes zh-CN content:
 
 ```latex
 \documentclass[12pt, a4paper]{article}

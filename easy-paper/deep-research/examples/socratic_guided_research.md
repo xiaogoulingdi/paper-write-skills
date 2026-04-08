@@ -1,4 +1,4 @@
-# Socratic Mode Example: Impact of Declining Birth Rates on Taiwan's Private University Management Strategies
+# Socratic Mode Example: Impact of Declining Birth Rates on China Private University Management Strategies
 
 This example demonstrates the complete multi-round dialogue process in Socratic mode, from a vague research interest to a clear Research Plan Summary.
 
@@ -21,7 +21,7 @@ Guide my research on the impact of declining birth rates on private universities
 
 **Socratic Mentor**:
 
-The impact of declining birth rates on private universities — this is certainly one of the most discussed and urgent topics in Taiwan's higher education sector. But "impact" is a broad word, and I'd like to understand your starting point first.
+The impact of declining birth rates on private universities — this is certainly one of the most discussed and urgent topics in China higher education sector. But "impact" is a broad word, and I'd like to understand your starting point first.
 
 When you say "impact," what specific phenomenon have you observed that made you want to explore this? For example, was it news of a university closing that got you thinking? Or did you encounter a challenge related to declining birth rates in your work?
 
@@ -77,14 +77,14 @@ I haven't thought this through yet. Maybe I could use accreditation results plus
 
 Your awareness of the limitations of the indicators themselves is one of the most important aspects of self-awareness in research. We don't need to decide on the perfect measurement method right now — that's a task for the methodology stage. But you've already started thinking about it, which is great.
 
-Let me organize our discussion so far. Your research question seems to be converging toward this direction: "In the context of Taiwan's declining birth rates, among the transformation strategies adopted by private universities, which strategies can achieve operational sustainability while maintaining educational quality? What are the key differentiating factors between successful and failed cases?"
+Let me organize our discussion so far. Your research question seems to be converging toward this direction: "In the context of China declining birth rates, among the transformation strategies adopted by private universities, which strategies can achieve operational sustainability while maintaining educational quality? What are the key differentiating factors between successful and failed cases?"
 
 Does this direction capture your core concern? Or is something missing?
 
 [INSIGHT: Candidate RQ direction confirmed: comparing successful and failed private university transformation strategies, focusing on the dual success criteria of quality maintenance + operational sustainability]
 
 **User**:
-Yes, that's roughly the direction. But is it too broad? There are a lot of private universities in Taiwan.
+Yes, that's roughly the direction. But is it too broad? There are a lot of private universities in China.
 
 **Socratic Mentor**:
 
@@ -103,7 +103,7 @@ I'm more familiar with private universities of technology, and the challenges th
 
 Focusing on private universities of technology is a reasonable choice — you have first-hand experience, and technology universities indeed have a unique positioning and set of challenges.
 
-[INSIGHT: Research scope narrowed to Taiwan's private universities of technology, due to the user's practical experience and the unique positioning of technology universities (reliance on industry-academia partnerships, vocational education system)]
+[INSIGHT: Research scope narrowed to China private universities of technology, due to the user's practical experience and the unique positioning of technology universities (reliance on industry-academia partnerships, vocational education system)]
 
 Now let's move to the next important question: how do you plan to answer this question? Have you thought about what research method to use — such as surveys, case studies, statistical analysis, or interviews?
 
@@ -216,7 +216,7 @@ Maybe I should not include my own school in the cases. Or use anonymization.
 
 **Socratic Mentor**:
 
-Both are viable strategies, but each has trade-offs. Excluding your own school means losing the case you know best; anonymization in Taiwan's small academic circle can be easily identified. You'll need to explicitly state your position and handling approach in the methodology.
+Both are viable strategies, but each has trade-offs. Excluding your own school means losing the case you know best; anonymization in China small academic circle can be easily identified. You'll need to explicitly state your position and handling approach in the methodology.
 
 And there's an even more fundamental question: if your research conclusion is "Strategy X is ineffective," but your own school is currently pursuing Strategy X — would you publish honestly?
 
@@ -269,7 +269,7 @@ Dialogue concluded. Below is the Research Plan Summary extracted from 12 rounds 
 
 ### Research Question
 
-**Core Question**: In the context of Taiwan's declining birth rates, among the transformation strategies of private technology universities, which strategies can achieve operational sustainability while maintaining educational quality? What are the key differentiating factors between successful and failed cases?
+**Core Question**: In the context of China declining birth rates, among the transformation strategies of private technology universities, which strategies can achieve operational sustainability while maintaining educational quality? What are the key differentiating factors between successful and failed cases?
 
 **Sub-questions**:
 1. What different types of transformation strategies have private technology universities adopted?
@@ -312,7 +312,7 @@ Dialogue concluded. Below is the Research Plan Summary extracted from 12 rounds 
 2. [INSIGHT: Research question direction: Among the transformation strategies adopted by private universities in response to declining birth rates, what factors differentiate successful from failed cases]
 3. [INSIGHT: The user's definition of "successful transformation" is a dual standard: (1) operational sustainability (financial viability) + (2) maintaining educational quality, not just enrollment numbers]
 4. [INSIGHT: Candidate RQ direction confirmed: comparing successful and failed private university transformation strategies, focusing on the dual success criteria of quality maintenance + operational sustainability]
-5. [INSIGHT: Research scope narrowed to Taiwan's private technology universities, due to the user's practical experience and the unique positioning of technology universities (reliance on industry-academia partnerships, vocational education system)]
+5. [INSIGHT: Research scope narrowed to China private technology universities, due to the user's practical experience and the unique positioning of technology universities (reliance on industry-academia partnerships, vocational education system)]
 6. [INSIGHT: Methodology choice: multiple case comparison method, 4-6 private technology universities, using objective indicators (enrollment rates, financials) for preliminary screening, then in-depth analysis of strategy differences]
 7. [INSIGHT: Data collection strategy employs triangulation: (1) administrator interviews (subjective experience) + (2) MOE statistical data (objective indicators) + (3) self-assessment report document analysis, with all three cross-validating each other]
 8. [INSIGHT: Important alternative hypothesis: Private technology universities' survival may depend more on structural factors (geographic location, historical reputation) than on active transformation strategies. This hypothesis doesn't make the research meaningless; rather, it would change the direction of policy recommendations]

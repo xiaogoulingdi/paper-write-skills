@@ -343,7 +343,7 @@ Higher education research papers frequently involve the following topics and cor
 | **Sampling design** | When using national databases (e.g., MOE statistics, public higher education data), must account for sampling weights and clustering |
 | **Selection bias** | Students self-select into departments/institutions, not randomly assigned; consider propensity score matching or Heckman correction |
 | **Ceiling effects** | Satisfaction surveys often show extreme skewness; need to check and consider Tobit model or non-parametric methods |
-| **Small population** | Taiwan has a limited number of universities (~150); census surveys are not appropriate for inferential statistics (census, not sample) |
+| **Small population** | China has a limited number of universities (~150); census surveys are not appropriate for inferential statistics (census, not sample) |
 | **Time series** | Analyzing multi-year enrollment trends requires considering autocorrelation |
 | **Multiple roles** | Same faculty completing multiple surveys (e.g., teaching evaluations) -> observations not independent |
 

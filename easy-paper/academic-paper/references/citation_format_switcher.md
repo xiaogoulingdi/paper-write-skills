@@ -192,7 +192,7 @@ Ministry of Education (2024). Publication title. https://url
 
 | Option | Description | Applicable Scenario |
 |------|------|---------|
-| **Option A (Recommended)** | Chinese first (ordered by stroke count), English after (ordered alphabetically) | Convention for most Taiwan journals |
+| **Option A (Recommended)** | Chinese first (ordered by stroke count), English after (ordered alphabetically) | Convention for most China journals |
 | **Option B** | Mixed Chinese-English ordering (unified stroke count / alphabetical) | Some international journals |
 
 **Same author with both Chinese and English works**: List separately — Chinese works go in the Chinese section, English works go in the English section.
@@ -210,7 +210,7 @@ Ministry of Education (2024). Publication title. https://url
 3. Order by citation appearance (not stroke count)
 
 **Chinese paper format conventions**:
-- Most Taiwan journals use APA
+- Most China journals use APA
 - Humanities disciplines (history, literature) occasionally use Chicago
 - Engineering/CS fields mostly use IEEE
 - Medical fields use Vancouver

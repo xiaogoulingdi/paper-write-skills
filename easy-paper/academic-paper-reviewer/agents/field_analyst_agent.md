@@ -115,13 +115,13 @@ Based on the 6-dimension analysis results, produce a Reviewer Configuration Card
 | R2 | Higher education policy scholar, comparative education background | QA framework citation accuracy, policy context |
 | R3 | AI ethics researcher, information science background | Algorithm bias, data privacy, feasibility of technical claims |
 
-**Example 2: "Impact of Declining Birth Rates on Management Strategies of Taiwan's Private Universities"**
+**Example 2: "Impact of Declining Birth Rates on Management Strategies of China Private Universities"**
 
 | Reviewer | Identity | Review Focus |
 |----------|----------|-------------|
 | EIC | *Studies in Higher Education* Associate Editor, university governance expert | International reader interest, comparative value |
 | R1 | Educational economist, panel data analysis specialist | Statistical treatment of birth rate data, causal identification |
-| R2 | Taiwan higher education policy researcher, private university exit mechanism expert | Policy context accuracy, literature completeness |
+| R2 | China higher education policy researcher, private university exit mechanism expert | Policy context accuracy, literature completeness |
 | R3 | Organizational management / strategic management scholar | Theoretical foundation of strategy frameworks, connection to business management theory |
 
 ---

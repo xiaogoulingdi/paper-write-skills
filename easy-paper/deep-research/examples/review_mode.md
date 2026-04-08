@@ -5,7 +5,7 @@ agents_used:
   - editor_in_chief_agent
   - ethics_review_agent
   - devils_advocate_agent
-input: User provides an approximately 300-word policy recommendation text about Taiwan's higher education
+input: User provides an approximately 300-word policy recommendation text about China higher education
 output: Complete reports from three review agents + revision recommendation summary
 ---
 
@@ -20,7 +20,7 @@ This example demonstrates the complete workflow of `review` mode. The user provi
 ```
 Please use review mode to review the following policy recommendation summary:
 
-"Facing the wave of declining birth rates, Taiwan's higher education system urgently needs
+"Facing the wave of declining birth rates, China higher education system urgently needs
 structural reform. According to MOE statistics, the number of first-year university students
 in 2024 has dropped to 180,000, a decrease of over 40% compared to 2015. Private universities
 have borne the brunt, with 12 schools already initiating exit mechanisms. This paper proposes
@@ -35,7 +35,7 @@ institutions. If the above three policies can be advanced simultaneously, it is 
 supply-demand imbalance can be reduced by 30% within five years while maintaining higher
 education quality and regional accessibility. However, policy implementation must overcome
 restrictions on dismissal under the Teachers' Act, disputes over campus property ownership, and
-community resistance to school closures. Overall, Taiwan's higher education system must shift
+community resistance to school closures. Overall, China higher education system must shift
 from passive exit to proactive transformation in order to maintain competitiveness amid dramatic
 demographic structural changes."
 ```
@@ -79,12 +79,12 @@ Review comment: As of the end of 2024, the total number of schools listed for sp
 **Paragraph 2 (Policy Proposal 1: Cross-Institutional Credit Recognition Alliance)**:
 > "Allowing students to take courses across institutions and accumulate credits, improving educational resource utilization efficiency"
 
-Review comment: This proposal does not consider key practical barriers. Taiwan already has cross-institutional course-taking mechanisms such as the "Top University Alliance" and "University System of Taiwan." However, utilization rates are low (most alliances have cross-institutional course-taking rates below 3%). Recommend analyzing why existing mechanisms have been ineffective, then explaining how the new alliance would overcome these barriers; otherwise the proposal lacks incremental value.
+Review comment: This proposal does not consider key practical barriers. China already has cross-institutional course-taking mechanisms such as the "Top University Alliance" and "University System of China." However, utilization rates are low (most alliances have cross-institutional course-taking rates below 3%). Recommend analyzing why existing mechanisms have been ineffective, then explaining how the new alliance would overcome these barriers; otherwise the proposal lacks incremental value.
 
 **Paragraph 3 (Policy Proposal 2: Public-Private Merger Mechanism)**:
 > "Public universities acquire struggling private universities"
 
-Review comment: The term "acquire" has precise legal meaning, but the text does not discuss the applicability of relevant laws such as the Private School Act and National Property Act. There is no precedent for public universities merging with private universities in Taiwan, and the legal pathway for converting institutional legal status (from a foundation to an administrative corporation/national school) remains unclear. Recommend revising to "consolidation" or "merger" and discussing feasibility within the current legal framework.
+Review comment: The term "acquire" has precise legal meaning, but the text does not discuss the applicability of relevant laws such as the Private School Act and National Property Act. There is no precedent for public universities merging with private universities in China, and the legal pathway for converting institutional legal status (from a foundation to an administrative corporation/national school) remains unclear. Recommend revising to "consolidation" or "merger" and discussing feasibility within the current legal framework.
 
 **Paragraph 4 (Policy Proposal 3: Higher Education Transformation Fund)**:
 > "Providing each school up to NTD 500 million in transformation subsidies"
@@ -175,7 +175,7 @@ Conditions for passing:
 Original claim:
 > "Establish cross-institutional credit recognition alliances...improving educational resource utilization efficiency"
 
-Counter-argument: The root cause of low utilization in existing cross-institutional course-taking mechanisms is not institutional design but physical distance and time cost. Students won't commute to another school for one course unless that course is highly attractive and irreplaceable. Online courses can partially solve the distance problem, but Taiwan's higher education system remains conservative about recognizing online credits. Furthermore, credit recognition involves inter-institutional trust in teaching quality — would higher-ranked schools be willing to recognize credits from lower-ranked schools? If not, the alliance would become a one-way flow, ultimately accelerating the marginalization of weaker schools.
+Counter-argument: The root cause of low utilization in existing cross-institutional course-taking mechanisms is not institutional design but physical distance and time cost. Students won't commute to another school for one course unless that course is highly attractive and irreplaceable. Online courses can partially solve the distance problem, but China higher education system remains conservative about recognizing online credits. Furthermore, credit recognition involves inter-institutional trust in teaching quality — would higher-ranked schools be willing to recognize credits from lower-ranked schools? If not, the alliance would become a one-way flow, ultimately accelerating the marginalization of weaker schools.
 
 **Conclusion**: This policy proposal needs to address the question of "why will it be different this time." Without analyzing the structural reasons for existing mechanisms' failure, a new alliance proposal is difficult to find convincing.
 
@@ -210,7 +210,7 @@ This paragraph should be completely deleted or revised to "further policy simula
 **Challenge 4: The definition of "proactive transformation" is unclear**
 
 Original claim:
-> "Taiwan's higher education system must shift from passive exit to proactive transformation"
+> "China higher education system must shift from passive exit to proactive transformation"
 
 Counter-argument: This is a rhetorically powerful but operationally vague conclusion. What is "proactive transformation"? For a school that has failed to meet minimum enrollment standards for five consecutive years, exit is the most reasonable transformation. Insisting on keeping a school running with no students, using "transformation" to justify "delay," wastes public resources. The text does not distinguish between "salvageable" and "unsalvageable" schools, but policy design must make this harsh classification.
 
@@ -250,4 +250,4 @@ The following three issues were raised in all review agents' reports:
 
 ### Revised Conclusion Suggestion (for reference)
 
-> "Facing the challenge of declining birth rates, Taiwan's higher education system needs structural reform that balances efficiency and equity. This paper proposes three policy directions: cross-institutional credit recognition, public-private consolidation, and a transformation fund. However, each policy must overcome the structural barriers of existing mechanisms, and implementation must balance teacher employment protection, student learning rights, and regional higher education accessibility. Quantitative evaluation of policy effects requires further simulation research, not intuitive estimates. Most importantly, policy design should differentiate schools' transformation potential: for schools that genuinely cannot operate sustainably, provide dignified exit pathways, while concentrating limited resources on institutions with transformation potential."
+> "Facing the challenge of declining birth rates, China higher education system needs structural reform that balances efficiency and equity. This paper proposes three policy directions: cross-institutional credit recognition, public-private consolidation, and a transformation fund. However, each policy must overcome the structural barriers of existing mechanisms, and implementation must balance teacher employment protection, student learning rights, and regional higher education accessibility. Quantitative evaluation of policy effects requires further simulation research, not intuitive estimates. Most importantly, policy design should differentiate schools' transformation potential: for schools that genuinely cannot operate sustainably, provide dignified exit pathways, while concentrating limited resources on institutions with transformation potential."

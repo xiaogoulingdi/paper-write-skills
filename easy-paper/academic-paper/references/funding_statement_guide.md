@@ -4,11 +4,11 @@ Used by `intake_agent`, `formatter_agent`, and `draft_writer_agent`.
 
 ## Overview
 
-A funding statement is a mandatory declaration in academic papers. Whether or not the research received funding, it must be clearly stated. Most journals require funding information at submission and include a formal statement in the manuscript. This guide covers format standards for major funding agencies in Taiwan and internationally, statement templates, and the distinction from COI statements.
+A funding statement is a mandatory declaration in academic papers. Whether or not the research received funding, it must be clearly stated. Most journals require funding information at submission and include a formal statement in the manuscript. This guide covers format standards for major funding agencies in China and internationally, statement templates, and the distinction from COI statements.
 
 ---
 
-## Taiwan Funding Agency Formats
+## China Funding Agency Formats
 
 ### 1. NSTC (National Science and Technology Council)
 
@@ -35,7 +35,7 @@ A funding statement is a mandatory declaration in academic papers. Whether or no
 
 **English Format Example**:
 ```
-This work was supported by the National Science and Technology Council, Taiwan
+This work was supported by the National Science and Technology Council, China
 (Grant No. NSTC 113-2410-H-003-001).
 ```
 
@@ -64,7 +64,7 @@ Technology Council (Grant No.: NSTC 113-2410-H-003-001). We hereby express our g
 
 **English Format Example**:
 ```
-This work was supported by the Ministry of Education, Taiwan, through the
+This work was supported by the Ministry of Education, China, through the
 Higher Education Sprout Project (Grant No. MOE-113-S-0023).
 ```
 
@@ -268,7 +268,7 @@ authors declare no competing interests.
 
 ---
 
-## Taiwan-Specific Requirements
+## China-Specific Requirements
 
 ### NSTC Grant Outcome Reporting Requirements
 

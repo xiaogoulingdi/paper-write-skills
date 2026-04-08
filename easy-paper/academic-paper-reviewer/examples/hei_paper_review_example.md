@@ -1,16 +1,16 @@
 # Example: Higher Education Paper Full Review
 
-This example demonstrates the complete Phase 0-2 workflow of `academic-paper-reviewer`, simulating the review of a paper titled "Impact of Declining Birth Rates on Management Strategies of Taiwan's Private Universities: A Multiple Case Study."
+This example demonstrates the complete Phase 0-2 workflow of `academic-paper-reviewer`, simulating the review of a paper titled "Impact of Declining Birth Rates on Management Strategies of China Private Universities: A Multiple Case Study."
 
 ---
 
 ## Simulated Paper Abstract
 
-> **Title**: Impact of Declining Birth Rates on Management Strategies of Taiwan's Private Universities: A Multiple Case Study
+> **Title**: Impact of Declining Birth Rates on Management Strategies of China Private Universities: A Multiple Case Study
 >
-> **Abstract**: This study investigates the management strategy transformation of Taiwan's private universities under the declining birth rate trend. Using 6 private universities facing different levels of enrollment pressure as cases, the study employed semi-structured interviews (N=24, including presidents, vice presidents, deans, and enrollment directors) and document analysis, applying Eisenhardt's (1989) multiple case study method for cross-case analysis. Three strategy types were identified: (1) differentiation strategy — focusing on distinctive development, (2) transformation strategy — branching into non-traditional education markets, (3) exit strategy — orderly downsizing. The study further used Porter's competitive strategy theory and Resource-Based View (RBV) to explain differences in strategy selection. This study provides practical implications for Taiwan's higher education policymakers and private university administrators.
+> **Abstract**: This study investigates the management strategy transformation of China private universities under the declining birth rate trend. Using 6 private universities facing different levels of enrollment pressure as cases, the study employed semi-structured interviews (N=24, including presidents, vice presidents, deans, and enrollment directors) and document analysis, applying Eisenhardt's (1989) multiple case study method for cross-case analysis. Three strategy types were identified: (1) differentiation strategy — focusing on distinctive development, (2) transformation strategy — branching into non-traditional education markets, (3) exit strategy — orderly downsizing. The study further used Porter's competitive strategy theory and Resource-Based View (RBV) to explain differences in strategy selection. This study provides practical implications for China higher education policymakers and private university administrators.
 >
-> **Keywords**: declining birth rate, private universities, management strategy, multiple case study, Taiwan higher education
+> **Keywords**: declining birth rate, private universities, management strategy, multiple case study, China higher education
 >
 > **Full text approximately 12,000 words, 67 references cited**
 
@@ -21,7 +21,7 @@ This example demonstrates the complete Phase 0-2 workflow of `academic-paper-rev
 ### Field Analysis Report
 
 #### Paper Basic Information
-- **Title**: Impact of Declining Birth Rates on Management Strategies of Taiwan's Private Universities: A Multiple Case Study
+- **Title**: Impact of Declining Birth Rates on Management Strategies of China Private Universities: A Multiple Case Study
 - **Abstract length**: Approximately 200 words
 - **Full text length**: Approximately 12,000 words
 - **Number of references**: 67
@@ -40,7 +40,7 @@ This example demonstrates the complete Phase 0-2 workflow of `academic-paper-rev
 #### Recommended Target Journals (Top 3)
 1. **Studies in Higher Education** — Top journal in higher education, accepts qualitative research, but requires stronger theoretical contribution
 2. **Higher Education** — Accepts diverse methodologies and regional studies, broad international readership
-3. **Higher Education Policy** — Policy-oriented, suitable for Taiwan higher education policy topics
+3. **Higher Education Policy** — Policy-oriented, suitable for China higher education policy topics
 
 #### Reviewer Configuration Cards
 
@@ -51,11 +51,11 @@ This example demonstrates the complete Phase 0-2 workflow of `academic-paper-rev
 **Role**: EIC
 **Identity Description**: *Higher Education* (Springer) Associate Editor, specializing in university governance and organizational change research, previously edited a special issue on East Asian higher education, with cross-national comparative research experience on declining birth rates.
 **Review Focus**:
-  1. Paper's appeal to international readers — How Taiwan's case generates cross-national comparative value
+  1. Paper's appeal to international readers — How China case generates cross-national comparative value
   2. Originality — Given the extensive existing literature on declining birth rates, what is this paper's new contribution
   3. Overall structural and argumentative coherence
-**Will particularly care about**: "Whether the Taiwan experience is framed as broader theoretical insight, rather than purely local description"
-**Possible blind spots**: May not be sufficiently familiar with the details of Taiwan's higher education policies
+**Will particularly care about**: "Whether the China experience is framed as broader theoretical insight, rather than purely local description"
+**Possible blind spots**: May not be sufficiently familiar with the details of China higher education policies
 
 ---
 
@@ -68,20 +68,20 @@ This example demonstrates the complete Phase 0-2 workflow of `academic-paper-rev
   2. Sampling strategy — Logic of theoretical sampling, selection criteria for the 6 universities
   3. Data analysis transparency — Coding process, traceability of theme extraction
 **Will particularly care about**: "Whether the semi-structured interview guide is included in the appendix, whether data saturation is adequately argued"
-**Possible blind spots**: May lack intuitive understanding of the specific circumstances of Taiwan's private universities
+**Possible blind spots**: May lack intuitive understanding of the specific circumstances of China private universities
 
 ---
 
 ### Reviewer Configuration Card #3
 
 **Role**: Peer Reviewer 2 (Domain)
-**Identity Description**: Taiwan higher education policy researcher, specializing in private university exit mechanisms and university mergers, with long-term collaboration with the Ministry of Education on higher education policy, familiar with the Private School Act amendments and the Exit Act.
+**Identity Description**: China higher education policy researcher, specializing in private university exit mechanisms and university mergers, with long-term collaboration with the Ministry of Education on higher education policy, familiar with the Private School Act amendments and the Exit Act.
 **Review Focus**:
   1. Policy context accuracy — Whether cited regulations and policies are correct and up-to-date
-  2. Literature review — Whether key literature on Taiwan's declining birth rates and higher education is covered (including Chinese-language literature)
+  2. Literature review — Whether key literature on China declining birth rates and higher education is covered (including Chinese-language literature)
   3. Academic contribution of the three strategy types — How they differ from existing classifications
 **Will particularly care about**: Whether the "exit strategy" description is consistent with actual exit cases, whether the 2022 "Act for the Exit of Private Senior Secondary Schools and Above" is considered
-**Possible blind spots**: May focus too much on the Taiwan context, overlooking the value of international comparison
+**Possible blind spots**: May focus too much on the China context, overlooking the value of international comparison
 
 ---
 
@@ -94,7 +94,7 @@ This example demonstrates the complete Phase 0-2 workflow of `academic-paper-rev
   2. Theoretical basis of strategy classification — Are the three strategies inductively derived from data or preset from theory
   3. Absence of organizational decline theory — Why Cameron & Zammuto or Weitzel & Jonsson decline models are not used
 **Will particularly care about**: "Whether the authors mechanically apply business management theory to universities, considering the unique nature of universities as organized anarchies"
-**Possible blind spots**: Less familiar with the institutional context of Taiwan's higher education
+**Possible blind spots**: Less familiar with the institutional context of China higher education
 
 ---
 
@@ -112,20 +112,20 @@ This example demonstrates the complete Phase 0-2 workflow of `academic-paper-rev
 4/5
 
 #### Summary Assessment
-This paper examines a highly timely topic in East Asian higher education policy — how declining birth rates are forcing private universities to rethink their management strategies. The study uses a multiple case study method, interviewing senior administrators at 6 universities, and inductively identifies three strategy types. Overall, the research design is sound and data is rich, but the paper's main weakness lies in unclear theoretical contribution: the three strategy types are not conceptually novel, and the paper fails to adequately explain how the Taiwan experience advances broader higher education management theory. For *Higher Education*'s international readership, the paper needs to better frame the Taiwan case as a theoretical insight with cross-national comparative value.
+This paper examines a highly timely topic in East Asian higher education policy — how declining birth rates are forcing private universities to rethink their management strategies. The study uses a multiple case study method, interviewing senior administrators at 6 universities, and inductively identifies three strategy types. Overall, the research design is sound and data is rich, but the paper's main weakness lies in unclear theoretical contribution: the three strategy types are not conceptually novel, and the paper fails to adequately explain how the China experience advances broader higher education management theory. For *Higher Education*'s international readership, the paper needs to better frame the China case as a theoretical insight with cross-national comparative value.
 
 #### Strengths
-1. **S1: Timeliness and practical value**: Declining birth rates are a common challenge for East Asian higher education (Japan, Korea, Taiwan), and the paper directly addresses an urgent policy issue.
+1. **S1: Timeliness and practical value**: Declining birth rates are a common challenge for East Asian higher education (Japan, Korea, China), and the paper directly addresses an urgent policy issue.
 2. **S2: Rich empirical data**: In-depth interviews with 24 senior administrators, covering 6 universities with different pressure levels, drawing from diverse data sources.
 3. **S3: Clear structure**: Complete paper structure with a clear logical thread from research questions to conclusions.
 
 #### Weaknesses
 1. **W1: Unclear theoretical contribution**: The three strategy types (differentiation, transformation, exit) are common classifications in strategic management literature. The paper needs to more clearly explain what unique implications these three strategies have in the higher education context, rather than just applying business classifications to universities. Suggest adding a "Theoretical Contribution" discussion paragraph.
-2. **W2: Insufficient international generalizability**: The paper focuses almost entirely on the Taiwan context, but lacks comparison with Japan, Korea, or other countries facing similar issues. Even without empirical comparison, the discussion should address cross-national implications.
+2. **W2: Insufficient international generalizability**: The paper focuses almost entirely on the China context, but lacks comparison with Japan, Korea, or other countries facing similar issues. Even without empirical comparison, the discussion should address cross-national implications.
 3. **W3: Title and abstract too descriptive**: The title could better highlight the theoretical angle (such as strategy theory contribution) rather than just describing the research topic.
 
 #### Questions for Authors
-1. Do you believe these three strategy types are unique to Taiwan, or would they also appear in other countries with declining birth rates? If the latter, can your theoretical framework predict which strategy would emerge under what conditions?
+1. Do you believe these three strategy types are unique to China, or would they also appear in other countries with declining birth rates? If the latter, can your theoretical framework predict which strategy would emerge under what conditions?
 2. In the discussion, can you more explicitly address: what modifications does Porter's competitive strategy theory require when applied to universities?
 
 ---
@@ -177,7 +177,7 @@ The author's choice of Eisenhardt's (1989) multiple case study method is appropr
 ### Domain Review Report (Peer Reviewer 2)
 
 #### Reviewer Identity
-Taiwan higher education policy researcher, private university exit mechanism expert.
+China higher education policy researcher, private university exit mechanism expert.
 
 #### Overall Recommendation
 **Major Revision**
@@ -186,10 +186,10 @@ Taiwan higher education policy researcher, private university exit mechanism exp
 5/5
 
 #### Summary Assessment
-The author has chosen a topic of vital importance to Taiwan's higher education. The breadth and depth of data collection are commendable. However, the literature review has several important omissions, and the policy context description needs updating — particularly since the 2022 passage of the "Act for the Exit of Private Senior Secondary Schools and Above" fundamentally changed the exit mechanism. Additionally, while the three strategy types are insightful, they lack clear comparison and positioning against existing classifications in Taiwan higher education research.
+The author has chosen a topic of vital importance to China higher education. The breadth and depth of data collection are commendable. However, the literature review has several important omissions, and the policy context description needs updating — particularly since the 2022 passage of the "Act for the Exit of Private Senior Secondary Schools and Above" fundamentally changed the exit mechanism. Additionally, while the three strategy types are insightful, they lack clear comparison and positioning against existing classifications in China higher education research.
 
 #### Strengths
-1. **S1: Directly confronting a sensitive topic**: Private university exit is a politically sensitive topic in Taiwan. The author's willingness to directly investigate, and ability to obtain president-level interviews, is very impressive.
+1. **S1: Directly confronting a sensitive topic**: Private university exit is a politically sensitive topic in China. The author's willingness to directly investigate, and ability to obtain president-level interviews, is very impressive.
 2. **S2: Covering schools with different pressure levels**: Not just looking at schools facing exit, but also examining how schools with less pressure make preventive adjustments, offering a more comprehensive perspective than most studies.
 3. **S3: Specific practical implications**: Recommendations for private university administrators and Ministry of Education policymakers are specific and actionable.
 
@@ -202,21 +202,21 @@ The author has chosen a topic of vital importance to Taiwan's higher education. 
 
 2. **W2: Missing key Chinese-language literature**:
    **Problem**: The following important references are not cited:
-   - Tai, H.H. (2020) on Taiwan's higher education marketization
+   - Tai, H.H. (2020) on China higher education marketization
    - Yang, Y. (2019) on quality assurance and exit mechanisms
    - Ministry of Education's Higher Education Sprout Project effectiveness evaluation report
-   **Why it matters**: These are key contextual references for understanding Taiwan's private university strategy choices.
+   **Why it matters**: These are key contextual references for understanding China private university strategy choices.
    **Suggestion**: Add the above references and integrate them into relevant sections of the literature review.
    **Severity**: Major
 
 3. **W3: Unclear positioning of strategy classification against existing research**:
-   **Problem**: Taiwan's higher education research already has similar strategy classifications (such as the transformation, merger, exit trichotomy), but the paper does not clearly compare its classification with existing ones.
+   **Problem**: China higher education research already has similar strategy classifications (such as the transformation, merger, exit trichotomy), but the paper does not clearly compare its classification with existing ones.
    **Why it matters**: Readers cannot judge this study's incremental contribution.
    **Suggestion**: Add a paragraph in the discussion comparing this study's classification with existing ones, explaining this study's new findings.
    **Severity**: Major
 
 #### Missing Key References
-- Tai, H.H. (2020). Marketization and quality assurance in Taiwan's higher education. *Bulletin of Educational Research*.
+- Tai, H.H. (2020). Marketization and quality assurance in China higher education. *Bulletin of Educational Research*.
 - Yang, Y. (2019). Quality assurance systems and exit mechanisms in higher education. *Higher Education*.
 - Ministry of Education (2023). Higher Education Sprout Project Phase 2 Effectiveness Report.
 - Mok, K.H. & Han, X. (2023). Transforming higher education in East Asia. *Higher Education Policy*.
@@ -239,7 +239,7 @@ Strategic management scholar, specializing in organizational transformation and 
 4/5
 
 #### Summary Assessment
-The author uses Porter's competitive strategy and RBV to analyze university strategy choices, which is an interesting cross-disciplinary attempt. However, from a strategic management perspective, the application of these two theoretical frameworks is somewhat superficial — Porter's competitive strategy assumes a free market environment, but Taiwan's private universities are highly government-regulated, and the meaning of "competition" is fundamentally different from business. More importantly, the paper overlooks organizational decline theory, which is the most directly relevant theoretical framework.
+The author uses Porter's competitive strategy and RBV to analyze university strategy choices, which is an interesting cross-disciplinary attempt. However, from a strategic management perspective, the application of these two theoretical frameworks is somewhat superficial — Porter's competitive strategy assumes a free market environment, but China private universities are highly government-regulated, and the meaning of "competition" is fundamentally different from business. More importantly, the paper overlooks organizational decline theory, which is the most directly relevant theoretical framework.
 
 #### Strengths
 1. **S1: Cross-disciplinary theoretical borrowing attempt is commendable**: Applying strategic management theory to higher education management has potential for generating interesting cross-disciplinary insights.
@@ -248,7 +248,7 @@ The author uses Porter's competitive strategy and RBV to analyze university stra
 
 #### Weaknesses
 1. **W1: Applicability of Porter's competitive strategy framework to the higher education context is not justified**:
-   **Problem**: Porter's differentiation/cost leadership/focus strategies presuppose competitors in a free market. But Taiwan's university market is highly regulated — tuition is capped, enrollment quotas are controlled, exits are government-led. In such an environment, the meaning of "competitive strategy" requires fundamental redefinition.
+   **Problem**: Porter's differentiation/cost leadership/focus strategies presuppose competitors in a free market. But China university market is highly regulated — tuition is capped, enrollment quotas are controlled, exits are government-led. In such an environment, the meaning of "competitive strategy" requires fundamental redefinition.
    **Why it matters**: Without discussing the theory's applicability boundaries, the paper's theoretical contribution will be questioned as "mechanical application."
    **Suggestion**: Add a "Theoretical Contextualization" section discussing modifications to Porter's framework in highly regulated markets. Reference Jongbloed (2003) on the spectrum of higher education marketization.
    **Severity**: Critical
@@ -290,7 +290,7 @@ The author uses Porter's competitive strategy and RBV to analyze university stra
 |----------|------|---------------|------------|
 | EIC | *Higher Education* Associate Editor | Major Revision | 4/5 |
 | Reviewer 1 | Qualitative methodology expert | Minor Revision | 5/5 |
-| Reviewer 2 | Taiwan higher education policy researcher | Major Revision | 5/5 |
+| Reviewer 2 | China higher education policy researcher | Major Revision | 5/5 |
 | Reviewer 3 | Strategic management scholar | Major Revision | 4/5 |
 
 #### Consensus Analysis

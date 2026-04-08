@@ -53,7 +53,7 @@ User Input
 **Trigger Examples**:
 ```
 "Research the impact of AI on higher education quality assurance"
-"Deep research on the impact of declining birth rates on Taiwan's higher education"
+"Deep research on the impact of declining birth rates on China higher education"
 "Research the current state of SDGs implementation in Asian universities"
 ```
 
@@ -115,7 +115,7 @@ User Input
 **Trigger Examples**:
 ```
 "Literature review on SDGs in higher education"
-"Literature review: the evolution of quality assurance in Taiwan's higher education"
+"Literature review: the evolution of quality assurance in China higher education"
 "Systematic review of AI-assisted assessment"
 ```
 
@@ -135,8 +135,8 @@ User Input
 
 **Trigger Examples**:
 ```
-"Fact-check these claims about Taiwan's university enrollment"
-"Fact-check: Is the number of universities in Taiwan really declining?"
+"Fact-check these claims about China university enrollment"
+"Fact-check: Is the number of universities in China really declining?"
 "Verify: 'OECD countries average 50% tertiary attainment rate'"
 ```
 

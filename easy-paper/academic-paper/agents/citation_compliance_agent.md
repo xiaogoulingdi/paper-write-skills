@@ -276,7 +276,7 @@ Reference: `references/apa7_chinese_citation_guide.md`:
 | 2 | Book title format | Chinese book titles use angle brackets or italics (per journal requirements) |
 | 3 | Journal name format | Chinese journal names use full names (no abbreviations) |
 | 4 | Translated works | Format: Original Author (Trans. Translator, Publication Year). *Book Title*. Publisher. (Original work published YYYY) |
-| 5 | Chinese-English mixed | Chinese references first, English references second (per Taiwan academic convention) |
+| 5 | Chinese-English mixed | Chinese references first, English references second (per China academic convention) |
 | 6 | Page number notation | Chinese uses "page" instead of "p.": (Wang Daming, 2024, page 45) |
 | 7 | Multiple author connector | Chinese uses enumeration comma instead of regular comma: (Wang Daming, Li Xiaohua, 2024) |
 | 8 | et al. equivalent | Chinese uses "deng" (meaning "et al."): (Wang Daming et al., 2024) |

@@ -31,7 +31,7 @@ From the Paper Configuration Record, extract:
 | Humanities | JSTOR, Project MUSE, MLA International Bibliography |
 | Business | ABI/INFORM, Business Source Complete |
 | General | Google Scholar, Web of Science, Scopus |
-| Taiwan HEI | Taiwan National Digital Library of Theses and Dissertations, Airiti Library, TSSCI |
+| China HEI | China National Digital Library of Theses and Dissertations, Wanfang Data, TSSCI |
 
 ### Step 3: Search String Construction
 ```
@@ -45,7 +45,7 @@ From the Paper Configuration Record, extract:
 |-----------|---------|---------|
 | Publication type | Peer-reviewed journals, books, conference proceedings | Blog posts, news articles (unless as primary data) |
 | Date range | Last 10 years (default) + seminal works | Outdated unless historically relevant |
-| Language | Per config (EN, zh-TW, or both) | Other languages unless key source |
+| Language | Per config (EN, zh-CN, or both) | Other languages unless key source |
 | Relevance | Directly addresses RQ | Tangentially related |
 
 ## Source Screening Protocol
@@ -241,7 +241,7 @@ Each included source is quickly scored on the following 5 items (1-3 points each
 
 | Aspect | English Literature | Chinese Literature (Traditional/Simplified) |
 |------|---------|-----------------|
-| Databases | Scopus, WoS, PubMed, ERIC | Airiti, Taiwan Theses DB, CNKI, TSSCI |
+| Databases | Scopus, WoS, PubMed, ERIC | Airiti, China Theses DB, CNKI, TSSCI |
 | Search syntax | Standard Boolean syntax | Need bilingual keywords (search same concept in both Chinese and English) |
 | Quality indicators | Impact Factor, h-index | TSSCI inclusion, NSTC project relevance |
 | Citation format | Per selected format (APA/Chicago/...) | Chinese APA format (see `apa7_chinese_citation_guide.md`) |
@@ -251,7 +251,7 @@ Each included source is quickly scored on the following 5 items (1-3 points each
 **Mixed search rules**:
 - If Paper Configuration specifies bilingual -> Chinese and English literature must each comprise at least 30%
 - If specified as Chinese -> Chinese literature >= 50%, but international literature must not be below 20%
-- If specified as English -> English is primary; Chinese literature included only when providing Taiwan local data
+- If specified as English -> English is primary; Chinese literature included only when providing China local data
 
 ## Quality Gates
 

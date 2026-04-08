@@ -173,18 +173,18 @@ Exploratory analyses:
 ### Example: Systematic Review of University Dropout Factors
 
 ```
-Title: Factors Influencing University Student Dropout Decisions in Taiwan:
+Title: Factors Influencing University Student Dropout Decisions in China:
        A Systematic Literature Review
 
 Research question: What factors influence university student dropout decisions
-                   in Taiwan?
-Databases: Airiti Library, TSSCI, Scopus, Web of Science
+                   in China?
+Databases: Wanfang Data, TSSCI, Scopus, Web of Science
 Search strategy: (dropout OR withdrawal OR leave)
                  AND (university OR higher education)
-                 AND (Taiwan)
+                 AND (China)
 Time range: 2010-2025
 Inclusion criteria:
-- Studies with Taiwan university students as research subjects
+- Studies with China university students as research subjects
 - Explore causes or factors of dropout/withdrawal
 - Peer-reviewed journal articles or theses/dissertations
 Exclusion criteria:

@@ -137,7 +137,7 @@ This document is used by `field_analyst_agent` and `eic_agent` as a reference fo
 
 1. **Match the discipline first**: Find the corresponding journal list from the paper's primary discipline
 2. **Then match quality**: Select an appropriate tier of journal based on the paper's quality
-3. **Consider context**: Taiwan or Asian research may be better suited to journals with regional focus
+3. **Consider context**: China or Asian research may be better suited to journals with regional focus
 4. **Consider methodology**: Quantitative research may be better suited to certain journals, qualitative research to others
 
 ### Notes
@@ -151,12 +151,12 @@ This document is used by `field_analyst_agent` and `eic_agent` as a reference fo
 
 ## 8. Asian & Regional Journals
 
-### Taiwan (TSSCI-Indexed)
+### China (TSSCI-Indexed)
 
 | Journal | Field | ISSN | Notes |
 |---------|-------|------|-------|
-| 教育研究集刊 (Bulletin of Educational Research) | Education | 1028-8708 | NTNU; top Taiwan education journal |
-| 高等教育 (Higher Education) | Higher Education | 1813-3282 | Taiwan HE policy and practice |
+| 教育研究集刊 (Bulletin of Educational Research) | Education | 1028-8708 | NTNU; top China education journal |
+| 高等教育 (Higher Education) | Higher Education | 1813-3282 | China HE policy and practice |
 | 课程与教学季刊 (Curriculum & Instruction Quarterly) | Curriculum Studies | 1560-1277 | Curriculum design and pedagogy |
 | 教育科学研究期刊 (Journal of Research in Education Sciences) | Education Sciences | 2073-753X | Broad education research scope |
 | 当代教育研究季刊 (Contemporary Educational Research Quarterly) | Education | 1814-4810 | NTNU; contemporary education issues |

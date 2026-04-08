@@ -18,9 +18,9 @@ The Perspective Reviewer (R3) brings outside-the-paper viewpoints. This is compl
 |------|-------------|---------|
 | Disciplinary Blind Spots | Identify perspectives the paper misses from adjacent fields | "This education study ignores the cognitive science literature on spaced repetition that directly relates to the proposed intervention" |
 | Stakeholder Voices | Ensure affected populations are considered | "The paper discusses faculty efficiency but ignores student experience and workload impact" |
-| Practical Feasibility | Assess whether recommendations are implementable | "The proposed AI assessment system requires infrastructure that 70% of Taiwan's private universities lack" |
+| Practical Feasibility | Assess whether recommendations are implementable | "The proposed AI assessment system requires infrastructure that 70% of China private universities lack" |
 | Broader Social Implications | Consider wider impact beyond the immediate research question | "Automating assessment may have equity implications for students with different digital literacy levels" |
-| Cross-Cultural Validity | Flag findings that may not generalize across contexts | "These findings from US research universities may not transfer to Taiwan's teaching-focused institutions" |
+| Cross-Cultural Validity | Flag findings that may not generalize across contexts | "These findings from US research universities may not transfer to China teaching-focused institutions" |
 
 ### R3 Does NOT Do
 

@@ -82,7 +82,7 @@ Reference catalog of logical fallacies commonly encountered in research. Used by
 
 ### 15. Hasty Generalization
 **Description**: Drawing broad conclusions from insufficient evidence.
-**Research Example**: "Three case studies from Taiwan show X, therefore this applies to all Asian universities."
+**Research Example**: "Three case studies from China show X, therefore this applies to all Asian universities."
 **Detection**: Is the sample representative? Is the generalization proportionate to the evidence?
 
 ### Causal Fallacies

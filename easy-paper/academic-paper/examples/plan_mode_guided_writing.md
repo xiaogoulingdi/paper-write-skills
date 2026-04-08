@@ -1,6 +1,6 @@
 # Plan Mode Example: Chapter-by-Chapter Guided Dialogue
 
-**Topic**: The Impact of Digital Transformation on Teaching Quality in Taiwan's Higher Education: Blended Learning as a Case Study
+**Topic**: The Impact of Digital Transformation on Teaching Quality in China Higher Education: Blended Learning as a Case Study
 
 This example demonstrates the complete Plan mode workflow, from Step 0 to Step 3, including guided dialogue for all chapters, INSIGHT extraction, and the final Chapter Plan output.
 
@@ -19,7 +19,7 @@ Please tell me:
 3. Have you conducted a systematic literature search?
 
 **User**:
-I previously ran a round with deep-research. I obtained an Annotated Bibliography (about 30 articles), a Synthesis Report, and a set of INSIGHT Collections. My research question is roughly: "How does blended learning affect the academic performance of university students in Taiwan?" But I think it might be too broad.
+I previously ran a round with deep-research. I obtained an Annotated Bibliography (about 30 articles), a Synthesis Report, and a set of INSIGHT Collections. My research question is roughly: "How does blended learning affect the academic performance of university students in China?" But I think it might be too broad.
 
 **Socratic Mentor**:
 Good, you already have a solid research foundation. I see you have three important materials:
@@ -97,7 +97,7 @@ This is a complete and powerful argument. Let me extract:
 [INSIGHT: thesis_statement]
 Core thesis: The impact of blended learning on university students' academic performance is moderated by self-regulated learning ability. Students with high self-regulated learning ability perform better in blended learning than in fully in-person settings, while those with low self-regulated learning ability perform significantly worse. Universities promoting blended learning must simultaneously establish self-regulated learning skill cultivation mechanisms.
 Argument type: Causal (with moderating effect)
-Applicable scope: General education courses at a Taiwanese national university, across three pre-and-post-pandemic academic years
+Applicable scope: General education courses at a Chinaese national university, across three pre-and-post-pandemic academic years
 Boundary conditions: Specific course type, specific university size, pandemic context may affect generalizability
 ```
 
@@ -121,7 +121,7 @@ Good, let's move into planning the Introduction. Before we start, you need to an
 Start with question 1: After reading your Introduction, what problem urgency should the reader feel most strongly?
 
 **User**:
-Taiwanese universities are massively promoting blended learning post-pandemic, but nobody has actually verified its impact on student academic performance. Everyone just assumes "technology advancement means it must be good," but this may overlook differences across student groups.
+Chinaese universities are massively promoting blended learning post-pandemic, but nobody has actually verified its impact on student academic performance. Everyone just assumes "technology advancement means it must be good," but this may overlook differences across student groups.
 
 **Socratic Mentor**:
 Good. So the urgency is: "Policy ahead of evidence" — universities are massively promoting an instructional model without sufficient verification. This is a very powerful opening.
@@ -129,7 +129,7 @@ Good. So the urgency is: "Policy ahead of evidence" — universities are massive
 Let me continue with the other questions. What is the research gap? In your literature review, what is missing from existing research?
 
 **User**:
-Most existing research is in Western contexts, or focuses on emergency remote teaching during the pandemic — not routine blended learning. There are very few local Taiwanese empirical studies, and almost no studies examine "self-regulated learning ability" as a moderating variable.
+Most existing research is in Western contexts, or focuses on emergency remote teaching during the pandemic — not routine blended learning. There are very few local Chinaese empirical studies, and almost no studies examine "self-regulated learning ability" as a moderating variable.
 
 #### Round 2
 
@@ -137,13 +137,13 @@ Most existing research is in Western contexts, or focuses on emergency remote te
 Good, let me summarize your 5 answers and see if anything needs to be supplemented:
 
 1. **Problem urgency**: Policy ahead of evidence. Universities are massively promoting blended learning without an empirical foundation.
-2. **Research gap**: (a) Lack of local Taiwanese studies (b) Lack of routine blended learning studies (c) Lack of moderating variable analysis
-3. **RQ**: What is the impact of blended learning on academic performance of Taiwanese university students? Does self-regulated learning ability have a moderating effect?
+2. **Research gap**: (a) Lack of local Chinaese studies (b) Lack of routine blended learning studies (c) Lack of moderating variable analysis
+3. **RQ**: What is the impact of blended learning on academic performance of Chinaese university students? Does self-regulated learning ability have a moderating effect?
 4. **Timeliness**: In the post-pandemic era, blended learning has shifted from "necessity" to "strategic choice," urgently requiring empirical guidance
 5. **Reading motivation**: If we continue promoting blindly, disadvantaged students (those with low self-regulated learning ability) may become invisible victims
 
 Your Introduction could open like this:
-Start with Taiwan's higher education digital transformation policy trends → Introduce the rapid expansion of blended learning → Point out the weak empirical foundation → Specifically highlight that student differences are being ignored → Lead into your RQs
+Start with China higher education digital transformation policy trends → Introduce the rapid expansion of blended learning → Point out the weak empirical foundation → Specifically highlight that student differences are being ignored → Lead into your RQs
 
 Suggested structure: Hook (policy data, 1 paragraph) → Background (blended learning definition + trends, 2 paragraphs) → Gap (three gaps, 1 paragraph) → Purpose & RQ (1 paragraph)
 
@@ -151,10 +151,10 @@ Suggested structure: Hook (policy data, 1 paragraph) → Background (blended lea
 ### Chapter Summary: Introduction
 
 **Core purpose**: Establish the urgency and necessity of the research, lead into dual RQs
-**Core argument**: Taiwanese universities are massively promoting blended learning but lack local empirical evidence, particularly regarding the impact of student differences
+**Core argument**: Chinaese universities are massively promoting blended learning but lack local empirical evidence, particularly regarding the impact of student differences
 **Supporting evidence**:
   1. MOE digital transformation policy implementation data
-  2. The scarcity of local Taiwanese blended learning empirical research in the literature
+  2. The scarcity of local Chinaese blended learning empirical research in the literature
   3. Evidence that existing research ignores moderating variables (self-regulated learning ability)
 **Potential risk**: An overly policy-oriented hook may lose academic readers' interest
 **Expected word count**: 800-1,000 words
@@ -522,15 +522,15 @@ All arguments are at Moderate or above — we can proceed to Chapter Plan output
 # Chapter Plan
 
 ## Paper Information
-- **Title**: The Impact of Digital Transformation on Teaching Quality in Taiwan's Higher Education: Blended Learning as a Case Study
+- **Title**: The Impact of Digital Transformation on Teaching Quality in China Higher Education: Blended Learning as a Case Study
 - **Paper type**: IMRaD
 - **Target word count**: 7,000-8,000 words
 
 ## Chapter 1: Introduction (800-1,000 words)
-- **Core Argument**: Taiwanese universities are massively promoting blended learning but lack local empirical evidence
+- **Core Argument**: Chinaese universities are massively promoting blended learning but lack local empirical evidence
 - **Supporting Evidence**:
   - MOE digital transformation policy data
-  - Scarcity of local Taiwanese empirical research (literature gap)
+  - Scarcity of local Chinaese empirical research (literature gap)
   - Existing research ignores individual learner differences
 - **Counter-arguments**: Large-scale international meta-analyses already support blended learning
 - **Response**: Meta-analysis conclusions have limited generalizability (context/student differences)

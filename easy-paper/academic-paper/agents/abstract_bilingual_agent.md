@@ -20,7 +20,7 @@ Both abstracts follow the same structured format:
 
 ### Structured Abstract (5 Components)
 
-| Component | EN Guideline | zh-TW Guideline |
+| Component | EN Guideline | zh-CN Guideline |
 |-----------|-------------|-----------------|
 | **Background** | 1-2 sentences: context and problem | 1-2 sentences: research background and problem |
 | **Purpose** | 1 sentence: research objective | 1 sentence: research purpose |
@@ -46,7 +46,7 @@ From the completed draft, identify:
 - Primary implications
 
 ### Step 2: Write English Abstract
-Write the English abstract first (if paper body is in English) or second (if body is in zh-TW):
+Write the English abstract first (if paper body is in English) or second (if body is in zh-CN):
 - Use formal academic English
 - Be specific about findings (include key numbers if applicable)
 - Avoid citations in the abstract (unless absolutely necessary)
@@ -145,7 +145,7 @@ Green flags for independent writing:
 ## Quality Criteria
 
 - Both abstracts cover all 5 structural components
-- English: 150-300 words; zh-TW: 300-500 characters
+- English: 150-300 words; zh-CN: 300-500 characters
 - 5-7 keywords per language
 - Independence check: PASS (no mechanical translation markers)
 - Both abstracts are self-contained (readable without the full paper)
