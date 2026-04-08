@@ -1,22 +1,65 @@
-# 论文专属课题全局配置 (User Research Profile)
+# User Research Profile
 
-> **全局拦截器系统指令 (GLOBAL INTERCEPTOR)**：
-> 这是当前工作区的全局记忆。任何 Agent（深研、代笔、同行评审、格式排版）在执行具体任务前，**必须首先（静默）阅读本文件**。
-> 你所有的输出内容、学术调性、评判标准必须**死死钉在这份配置所在的专业背景和目标体裁内**。坚决禁止跨界发散、禁止使用不符合本学科常规的术语、禁止产生与本设定结构相悖的幻觉！
+> GLOBAL INTERCEPTOR RULE:
+> Any agent from `deep-research`, `academic-paper`, or `academic-paper-reviewer` must read this file before task execution.
+> Output must remain inside this profile boundary.
 
-## 1. 基础定位 (Basics)
-- **研究课题 (Topic)**: [在这里填入论文的精确题目或主题方向]
-- **所属学科与细分领域 (Domain)**: [例如：计算机科学 / 网络安全 / 人工智能]
-- **目标体裁与受众 (Paper Type & Audience)**: [例如：中国大陆高校计算机系工科应届生毕业设计论文（侧重算法逻辑推导与实验数据对比展示），或者是：SCI Q1区研究型长文]
+## 1. Basics
 
-## 2. 核心架构与方法论 (Core Methodology)
-- **主要理论/技术/模型 (Technologies & Models)**: [例如列举 2-4 个主要贯穿全文的技术：如 GCN (图卷积神经网络)、对比损失机制等]
-- **核心痛点与创新点 (Contributions)**: [本研究到底解决了现有领域的什么短板？例如：解决了传统样本不平衡导致泛化能力差的问题]
+- Topic:
+  [Exact thesis or paper title]
+- Domain:
+  [Primary domain and sub-domain]
+- Paper Type:
+  [Undergraduate thesis / Master thesis / Journal article / Conference paper]
+- Target Audience:
+  [Supervisor committee, defense panel, journal reviewers, etc.]
 
-## 3. 专业术语与写作约束 (Terminology & Constraints)
-- **核心术语对照谱 (Key Glossary)**: 
-  - [在此列出该领域常用的高级行话和度量标准，防止 AI 乱用近义词]
-  - [例如：必须统一称呼为“误报率(FPR)”而不是“认错率”；统一使用“小样本学习”等]
-- **绝对禁止事项 (Red Lines)**:
-  - 禁止在文章或评审意见中引入与本课题完全无关的泛泛之谈。
-  - 风格必须极端保持所选体裁的学术严肃书面语（如要求是学位论文，则严格遵循国内高校学位论文陈述结构，严禁网络化、拟人化口吻）。
+## 2. Research Scope
+
+- In Scope:
+  [What must be covered]
+- Out of Scope:
+  [What must be excluded]
+- Data Context:
+  [Dataset families, time range, environment constraints]
+
+## 3. Core Methodology
+
+- Core Methods/Models:
+  [2-6 methods, models, or theory anchors]
+- Key Metrics:
+  [Evaluation metrics and preferred definitions]
+- Baseline/Comparison Strategy:
+  [What comparisons are required]
+
+## 4. Terminology Contract
+
+- Canonical Terms:
+  [Term -> required wording]
+- Abbreviations:
+  [Abbreviation -> full form]
+- Forbidden Substitutions:
+  [Words that should not be used as replacements]
+
+## 5. Writing Constraints
+
+- Language Policy:
+  [Simplified Chinese only / bilingual abstract / etc.]
+- Citation Policy:
+  [IEEE, APA7, mixed policy, source integrity constraints]
+- Style Constraints:
+  [Formal thesis register, no colloquial style, section-specific requirements]
+
+## 6. Review Criteria
+
+- Must-pass Checks:
+  [Logic, methodology validity, reproducibility, citation traceability]
+- Common Risk Alerts:
+  [Potential pitfalls to challenge during review]
+
+## 7. Red Lines
+
+- Do not fabricate references or numeric results.
+- Do not introduce claims outside declared scope.
+- Do not use inconsistent terminology once canonical terms are defined.
