@@ -87,27 +87,41 @@ your-project/
 ├── .claude/
 │   ├── CLAUDE.md
 │   └── skills/
-│       └── easy-paper/
-│           ├── project-init/
-│           ├── deep-research/
-│           ├── academic-paper/
-│           ├── academic-paper-reviewer/
-│           └── shared/
+│       ├── project-init/
+│       │   └── SKILL.md
+│       ├── deep-research/
+│       │   └── SKILL.md
+│       ├── academic-paper/
+│       │   └── SKILL.md
+│       ├── academic-paper-reviewer/
+│       │   └── SKILL.md
+│       └── shared/
 ```
+
+Note: Claude Code typically discovers skills at `.claude/skills/<skill-name>/SKILL.md`. An extra `easy-paper/` nesting layer may prevent discovery.
 
 Integration steps:
 
-1. Copy this `easy-paper` folder to `your-project/.claude/skills/easy-paper/`.
-2. Merge routing rules into `your-project/.claude/CLAUDE.md`.
-3. Launch Claude Code from `your-project/` root.
-4. Run `project-init` first to generate `your-project/USER_RESEARCH_PROFILE.md`.
+1. Copy these four skill folders directly into `your-project/.claude/skills/`:
+	- `academic-paper/`
+	- `academic-paper-reviewer/`
+	- `deep-research/`
+	- `project-init/`
+2. Copy `shared/` into `your-project/.claude/skills/shared/` (referenced by multiple skills).
+3. Merge routing rules into `your-project/.claude/CLAUDE.md`.
+4. Launch Claude Code from `your-project/` root.
+5. Run `project-init` first to generate `your-project/USER_RESEARCH_PROFILE.md`.
 
 One-time setup commands (PowerShell example):
 
 ```powershell
 cd C:\path\to\your-project
 New-Item -ItemType Directory -Force .claude\skills | Out-Null
-Copy-Item -Recurse -Force C:\path\to\easy-paper .claude\skills\easy-paper
+Copy-Item -Recurse -Force C:\path\to\easy-paper\academic-paper .claude\skills\academic-paper
+Copy-Item -Recurse -Force C:\path\to\easy-paper\academic-paper-reviewer .claude\skills\academic-paper-reviewer
+Copy-Item -Recurse -Force C:\path\to\easy-paper\deep-research .claude\skills\deep-research
+Copy-Item -Recurse -Force C:\path\to\easy-paper\project-init .claude\skills\project-init
+Copy-Item -Recurse -Force C:\path\to\easy-paper\shared .claude\skills\shared
 ```
 
 Then edit and merge routing in:
@@ -126,7 +140,11 @@ Expected output after initialization:
 
 Pre-release initialization checklist:
 
-1. `your-project/.claude/skills/easy-paper/` exists with all module folders.
+1. These skill paths exist:
+	- `your-project/.claude/skills/academic-paper/SKILL.md`
+	- `your-project/.claude/skills/academic-paper-reviewer/SKILL.md`
+	- `your-project/.claude/skills/deep-research/SKILL.md`
+	- `your-project/.claude/skills/project-init/SKILL.md`
 2. `your-project/.claude/CLAUDE.md` includes merged routing rules.
 3. `your-project/USER_RESEARCH_PROFILE.md` is generated successfully.
 4. A sample writing command routes to `academic-paper`.

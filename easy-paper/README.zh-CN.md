@@ -70,27 +70,41 @@ your-project/
 ├── .claude/
 │   ├── CLAUDE.md
 │   └── skills/
-│       └── easy-paper/
-│           ├── project-init/
-│           ├── deep-research/
-│           ├── academic-paper/
-│           ├── academic-paper-reviewer/
-│           └── shared/
+│       ├── project-init/
+│       │   └── SKILL.md
+│       ├── deep-research/
+│       │   └── SKILL.md
+│       ├── academic-paper/
+│       │   └── SKILL.md
+│       ├── academic-paper-reviewer/
+│       │   └── SKILL.md
+│       └── shared/
 ```
+
+说明：Claude Code 通常按 `.claude/skills/<skill-name>/SKILL.md` 发现可调用 skill，不能多嵌套一层 `easy-paper/`。
 
 接入步骤：
 
-1. 将 `easy-paper` 目录复制到 `your-project/.claude/skills/easy-paper/`。
-2. 将本仓库的路由规则合并到 `your-project/.claude/CLAUDE.md`。
-3. 在 `your-project/` 根目录启动 Claude Code。
-4. 首次建议先触发 `project-init` 生成 `your-project/USER_RESEARCH_PROFILE.md`。
+1. 将四个 skill 目录直接复制到 `your-project/.claude/skills/`：
+	- `academic-paper/`
+	- `academic-paper-reviewer/`
+	- `deep-research/`
+	- `project-init/`
+2. 将 `shared/` 目录也复制到 `your-project/.claude/skills/shared/`（供各 skill 引用）。
+3. 将本仓库的路由规则合并到 `your-project/.claude/CLAUDE.md`。
+4. 在 `your-project/` 根目录启动 Claude Code。
+5. 首次建议先触发 `project-init` 生成 `your-project/USER_RESEARCH_PROFILE.md`。
 
 初始化操作命令（PowerShell 示例）：
 
 ```powershell
 cd C:\path\to\your-project
 New-Item -ItemType Directory -Force .claude\skills | Out-Null
-Copy-Item -Recurse -Force C:\path\to\easy-paper .claude\skills\easy-paper
+Copy-Item -Recurse -Force C:\path\to\easy-paper\academic-paper .claude\skills\academic-paper
+Copy-Item -Recurse -Force C:\path\to\easy-paper\academic-paper-reviewer .claude\skills\academic-paper-reviewer
+Copy-Item -Recurse -Force C:\path\to\easy-paper\deep-research .claude\skills\deep-research
+Copy-Item -Recurse -Force C:\path\to\easy-paper\project-init .claude\skills\project-init
+Copy-Item -Recurse -Force C:\path\to\easy-paper\shared .claude\skills\shared
 ```
 
 随后请手动完成两步：
@@ -108,7 +122,11 @@ Copy-Item -Recurse -Force C:\path\to\easy-paper .claude\skills\easy-paper
 
 发布前初始化检查清单（建议）：
 
-1. `your-project/.claude/skills/easy-paper/` 目录存在并包含 5 个模块目录。
+1. 四个 skill 路径都存在：
+	- `your-project/.claude/skills/academic-paper/SKILL.md`
+	- `your-project/.claude/skills/academic-paper-reviewer/SKILL.md`
+	- `your-project/.claude/skills/deep-research/SKILL.md`
+	- `your-project/.claude/skills/project-init/SKILL.md`
 2. `your-project/.claude/CLAUDE.md` 已合并路由规则。
 3. `your-project/USER_RESEARCH_PROFILE.md` 已成功生成。
 4. 抽样触发一个写作任务，确认能命中 `academic-paper`。
